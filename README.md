@@ -224,6 +224,8 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 - **Console and CLI options** both offer flexibility for IT support staff to automate or manually resolve access issues.
 - Simulating **onboarding and offboarding** ensures compliance with security policies and access hygiene in cloud environments.
 
+---
 
+**Skills Used:** AWS IAM · AWS Console · User & Group Management · MFA Configuration · AWS CLI · Identity & Access Control · Help Desk Simulation · Security Best Practices
 
 
