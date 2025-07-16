@@ -27,6 +27,34 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 
 ---
 
+## 🔐 Key Tasks Demonstrated
+
+### ✅ 1. IAM Group & Policy Setup
+- Created a group called `SupportTeam`
+- Attached `AmazonEC2ReadOnlyAccess` policy
+
+### ✅ 2. User Onboarding
+- Added a new IAM user (`test1@team37154.testinator.com`)
+- Assigned to `SupportTeam`
+- Enabled AWS Console access with password reset required
+
+### ✅ 3. First-Time Login Simulation
+- User logged in via IAM Sign-In link
+- Forced to set a new password
+- Validated limited EC2 access
+
+### ✅ 4. Password Reset
+- Admin must require reset password from IAM Console
+
+### ✅ 5. MFA Setup
+- Virtual MFA enabled using Authenticator
+- Backup codes saved securely
+
+### ✅ 6. Offboarding
+- Removed policies and group access
+- Delete user from IAM
+
+---
 
 ## Step-by-Step Setup
 
