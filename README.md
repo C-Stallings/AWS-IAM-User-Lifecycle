@@ -25,6 +25,7 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 | AWS CLI (optional) | Automate password resets |
 | Google Authenticator | MFA enforcement |
 
+---
 
 ## 🔐 Key Tasks Demonstrated
 
@@ -87,8 +88,8 @@ This project simulates core tasks that an IT Support or Help Desk professional w
   />
 </p>
 
----
 
+---
 
 ### Step 2: Create a New IAM User (Onboarding)
 
