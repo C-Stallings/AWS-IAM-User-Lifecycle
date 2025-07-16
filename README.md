@@ -88,7 +88,7 @@ This project simulates core tasks that an IT Support or Help Desk professional w
   />
 </p>
 
-
+---
 ---
 
 ### Step 2: Create a New IAM User (Onboarding)
