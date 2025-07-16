@@ -72,8 +72,8 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/3eda709b-9247-4674-bca6-905173a3f0ae" 
-    height="45%" 
-    width="45%" 
+    height="50%" 
+    width="50%" 
     alt="SS_Create_Group_1"
   />
 </p>
@@ -83,8 +83,8 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/79380605-38ab-4eb1-8986-98b9d2042f8c" 
-    height="45%" 
-    width="45%" 
+    height="50%" 
+    width="50%" 
     alt="SS_Create_Group_2
   />
 </p>
@@ -108,8 +108,8 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/ea23cb86-97c1-41af-82d1-6e3b2a0501ff"
-    height="45%" 
-    width="45%" 
+    height="50%" 
+    width="50%" 
     alt="SS_Create_User_2"
   />
 </p>
@@ -185,8 +185,8 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/babd457a-70b8-4a5d-9ffc-0874025a3aad"
-    height="45%" 
-    width="45%" 
+    height="50%" 
+    width="50%" 
     alt="SS_MFA_1"
   />
 </p>
@@ -207,8 +207,8 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/b09418a5-e9e7-4ceb-8ab9-cb4ebf7dffa1"
-    height="45%" 
-    width="45%" 
+    height="50%" 
+    width="50%" 
     alt="SS_offboarding"
   />
 </p>
