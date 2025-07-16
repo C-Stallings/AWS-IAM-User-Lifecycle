@@ -16,7 +16,6 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 
 ---
 
-
 ## 🧰 Tools & Services Used
 
 | Service | Purpose |
@@ -25,7 +24,6 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 | AWS Console | User management |
 | AWS CLI (optional) | Automate password resets |
 | Google Authenticator | MFA enforcement |
-
 
 
 ## 🔐 Key Tasks Demonstrated
@@ -68,7 +66,7 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 4. Select the policy: `AmazonEC2ReadOnlyAccess`
 5. Click **Create group**
 
-
+#### Creating Group Image:
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/3eda709b-9247-4674-bca6-905173a3f0ae" 
@@ -78,8 +76,8 @@ This project simulates core tasks that an IT Support or Help Desk professional w
   />
 </p>
     
----
 
+#### Creating User Image:
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/79380605-38ab-4eb1-8986-98b9d2042f8c" 
@@ -90,6 +88,7 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 </p>
 
 ---
+
 
 ### Step 2: Create a New IAM User (Onboarding)
 
@@ -114,6 +113,7 @@ This project simulates core tasks that an IT Support or Help Desk professional w
     alt="SS_Create_User_2"
   />
 </p>
+
 
 ---
 
