@@ -67,7 +67,17 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 4. Select the policy: `AmazonEC2ReadOnlyAccess`
 5. Click **Create group**
 
+#### Creating Group Image:
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/3eda709b-9247-4674-bca6-905173a3f0ae" 
+    height="50%" 
+    width="50%" 
+    alt="SS_Create_Group_1"
+  />
+</p>
 
+#### Creating User Image:
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/79380605-38ab-4eb1-8986-98b9d2042f8c" 
@@ -115,13 +125,12 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 4. You’ll be prompted to **create a new password**
 5. After login, explore the **restricted EC2 view** (read-only)
 
-
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/b0d1d04a-885c-419b-bb9b-255ba9bbe2b7"
+    src="https://github.com/user-attachments/assets/3d5cf48f-2128-4149-a723-1e9f9e8bd06b"
     height="45%" 
     width="45%" 
-    alt="SS_User_Login_1"
+    alt="SS_New_User_Login_1"
   />
 </p>
 
