@@ -88,7 +88,6 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 </p>
     
 ---
----
 
 ### Step 2: Create a New IAM User (Onboarding)
 
@@ -107,7 +106,7 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/ea23cb86-97c1-41af-82d1-6e3b2a0501ff"
+    src="https://github.com/user-attachments/assets/911a03e0-3311-487d-9c09-35a784d97012"
     height="50%" 
     width="50%" 
     alt="SS_Create_User_2"
