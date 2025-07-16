@@ -86,7 +86,8 @@ This project simulates core tasks that an IT Support or Help Desk professional w
     alt="SS_Create_Group_2
   />
 </p>
-
+    
+---
 ---
 
 ### Step 2: Create a New IAM User (Onboarding)
@@ -117,6 +118,7 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 ---
 
 ### Step 3: Simulate First Login (as the New User)
+
 > ✅ Simulate what the user experiences during first sign-in.
 
 1. Open an **incognito window** or **different browser**
@@ -128,8 +130,8 @@ This project simulates core tasks that an IT Support or Help Desk professional w
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/3d5cf48f-2128-4149-a723-1e9f9e8bd06b"
-    height="45%" 
-    width="45%" 
+    height="50%" 
+    width="50%" 
     alt="SS_New_User_Login_1"
   />
 </p>
