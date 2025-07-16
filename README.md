@@ -83,7 +83,7 @@ This project simulates core tasks that an IT Support or Help Desk professional w
     src="https://github.com/user-attachments/assets/79380605-38ab-4eb1-8986-98b9d2042f8c" 
     height="50%" 
     width="50%" 
-    alt="SS_Create_Group_2
+    alt="SS_Create_Group_2"
   />
 </p>
     
